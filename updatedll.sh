@@ -2,7 +2,7 @@
 # ==========================================
 cd
 rm -r updatedll
-wget -O updatedll "https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/menu/updatedll.sh"
+wget -O updatedll "https://raw.githubusercontent.com/restuq3/menu/main/updatedll.sh"
 rm -rf updatedll
 
 # hapus
@@ -15,7 +15,7 @@ rm -r updatedll
 cd /usr/bin
 wget -O xmenu "https://raw.githubusercontent.com/restuq3/menu/main/xmenu.sh"
 wget -O addakun "https://raw.githubusercontent.com/restuq3/menu/main/addakun.sh"
-wget -O updatedll ""
+wget -O updatedll "https://raw.githubusercontent.com/restuq3/menu/main/updatedll.sh"
 wget -O addakun "https://raw.githubusercontent.com/restuq3/menu/main/addakun.sh"
 wget -O delgrpc "https://raw.githubusercontent.com/restuq3/menu/main/delgrpc.sh"
 wget -O certv2ray "https://raw.githubusercontent.com/restuq3/menu/main/certv2ray.sh"
